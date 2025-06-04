@@ -3,8 +3,10 @@
     "AqDev": {
       "Type": "Dev",
       "Version": "1.0",
-      "UIUrl": "",
-      "DLLUrl": ""
+      "Components": {
+        "UI": "",
+        "DLL": ""
+      },
     },
   },
 }
