@@ -1,4 +1,4 @@
 {
   "UI": "https://example.com/index.html",
-  "DLL": ""
+  "DLL": "https://example.com/index.html"
 }
