@@ -1,12 +1,4 @@
 {
-  "Sections": {
-    "AqDev": {
-      "Type": "Dev",
-      "Version": "1.0",
-      "Components": {
-        "UI": "",
-        "DLL": ""
-      },
-    },
-  },
+  "UI": "",
+  "DLL": ""
 }
